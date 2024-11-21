@@ -7,6 +7,9 @@
 - ⚡ Fun facts: ...1.: Humpback whales have unique songs that can last up to 20 minutes, used for communication.
 - 2-Monarch butterflies migrate thousands of miles using celestial navigation.
 - 3-Arctic tern during migration fly up to 44,000 miles annually, from pole to pole.
+- 4- The Ghost mushrooms(Omphalotus nidiformis) is a shining bioluminescent fungus found in Asia that emits greenish light in night.
+- 5- Bee's use sun as a compass, even when sun is behind clouds they infer the position as polarised light
+- 
 
 
 <!---
